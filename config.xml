@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns           = "http://www.w3.org/ns/widgets"
+        xmlns:gap       = "http://phonegap.com/ns/1.0"
+        xmlns:android   = "http://schemas.android.com/apk/res/android"
+        id              = "rafaelbertelli.com.github.cenourapp"
+        version         = "1.0.0">
+
+	<name>Cenoura App</name>
+
+	<description>
+		App do restaurante Só de Cenoura
+	</description>
+
+	<author href="http://www.github.com/rafaelbertelli/cenourapp" email="rafaelbertelli89@gmail.com">
+		Rafael Bertelli
+	</author>
+	
+	<icon src="icon.png" />
+	<gap:splash src="splash.png" />
+	
+	
+	<access origin="http://phonegap.com" subdomains="true" />
+
+</widget>
