@@ -15,11 +15,14 @@
 		Rafael Bertelli
 	</author>
 	
-
+	<icon src="icon.png" />
+	<gap:splash src="splash.png" />
 	
 	<preference name="orientation" 		value="portrait" />
 	<preference name="fullscreen"		value="true" />
 	
-	<access origin="http://phonegap.com" subdomains="true" />
+	<gap:platform name="android" />
+	
+
 
 </widget>
