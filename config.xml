@@ -14,15 +14,5 @@
 	<author href="http://www.github.com/rafaelbertelli/cenourapp" email="rafaelbertelli89@gmail.com">
 		Rafael Bertelli
 	</author>
-	
-	<icon src="icon.png" />
-	<gap:splash src="splash.png" />
-	
-	<preference name="orientation" 		value="portrait" />
-	<preference name="fullscreen"		value="true" />
-	
-	<gap:platform name="android" />
-	
-
 
 </widget>
