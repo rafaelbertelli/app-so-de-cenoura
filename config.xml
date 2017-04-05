@@ -10,6 +10,10 @@
 		Cenoura App
 	</name>
 
+	<description>
+      App do restaurante SóDeCenoura
+  </description>
+
 	<author href="https://www.github.com/rafaelbertelli/cenourapp" email="rafaelbertelli89@gmail.com">
 		Rafael Bertelli
 	</author>
